@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arduino Breadboard - Low poly
+* source:	https://sketchfab.com/3d-models/arduino-breadboard-low-poly-497ee275a25e4166b98c7be3105b4ad9
+* author:	Matys (https://sketchfab.com/Matysino)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arduino Breadboard - Low poly" (https://sketchfab.com/3d-models/arduino-breadboard-low-poly-497ee275a25e4166b98c7be3105b4ad9) by Matys (https://sketchfab.com/Matysino) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
