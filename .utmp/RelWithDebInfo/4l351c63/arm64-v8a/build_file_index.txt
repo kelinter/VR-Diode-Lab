@@ -1,0 +1,2 @@
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

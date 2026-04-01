@@ -1,0 +1,5 @@
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/.utmp/RelWithDebInfo/4l351c63/arm64-v8a/CMakeFiles/edit_cache.dir
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/.utmp/RelWithDebInfo/4l351c63/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/.utmp/RelWithDebInfo/4l351c63/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/.utmp/RelWithDebInfo/4l351c63/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Volumes/g drive-Kelly/Unity Projects/Diode_Lab/.utmp/RelWithDebInfo/4l351c63/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
