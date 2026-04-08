@@ -1,0 +1,11 @@
+Model Information:
+* title:	Two-Pin Tactile Push Button
+* source:	https://sketchfab.com/3d-models/two-pin-tactile-push-button-caa7bb6a632249daa4032eb7f7eaa1e5
+* author:	Veer AI (https://sketchfab.com/veer_ai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Two-Pin Tactile Push Button" (https://sketchfab.com/3d-models/two-pin-tactile-push-button-caa7bb6a632249daa4032eb7f7eaa1e5) by Veer AI (https://sketchfab.com/veer_ai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
