@@ -1,0 +1,11 @@
+Model Information:
+* title:	Komponen Elektronika Microcontrollers
+* source:	https://sketchfab.com/3d-models/komponen-elektronika-microcontrollers-bb4c7f974cef44f8b1db21afb0cce78d
+* author:	Aziz Ichwani (https://sketchfab.com/ichwaniaziz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Komponen Elektronika Microcontrollers" (https://sketchfab.com/3d-models/komponen-elektronika-microcontrollers-bb4c7f974cef44f8b1db21afb0cce78d) by Aziz Ichwani (https://sketchfab.com/ichwaniaziz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

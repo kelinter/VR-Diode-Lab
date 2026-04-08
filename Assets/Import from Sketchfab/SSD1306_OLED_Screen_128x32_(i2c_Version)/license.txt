@@ -1,0 +1,11 @@
+Model Information:
+* title:	SSD1306 OLED Screen 128x32 (i2c Version)
+* source:	https://sketchfab.com/3d-models/ssd1306-oled-screen-128x32-i2c-version-7c6f63e7a62b4b2a895b52778426a7ed
+* author:	Jamie Hamel-Smith (https://sketchfab.com/jamie3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SSD1306 OLED Screen 128x32 (i2c Version)" (https://sketchfab.com/3d-models/ssd1306-oled-screen-128x32-i2c-version-7c6f63e7a62b4b2a895b52778426a7ed) by Jamie Hamel-Smith (https://sketchfab.com/jamie3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

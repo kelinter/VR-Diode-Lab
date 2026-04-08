@@ -1,0 +1,11 @@
+Model Information:
+* title:	Potentiometer
+* source:	https://sketchfab.com/3d-models/potentiometer-5a998eb2ef8f4e7c993759e8887c8919
+* author:	bajlo (https://sketchfab.com/bajlo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Potentiometer" (https://sketchfab.com/3d-models/potentiometer-5a998eb2ef8f4e7c993759e8887c8919) by bajlo (https://sketchfab.com/bajlo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

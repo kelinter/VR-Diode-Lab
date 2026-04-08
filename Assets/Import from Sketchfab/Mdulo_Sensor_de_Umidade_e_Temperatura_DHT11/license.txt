@@ -1,0 +1,11 @@
+Model Information:
+* title:	Módulo Sensor de Umidade e Temperatura DHT11
+* source:	https://sketchfab.com/3d-models/modulo-sensor-de-umidade-e-temperatura-dht11-4b7c7f7436ad46cc97a837b7503b5901
+* author:	Robótica Paraná (https://sketchfab.com/roboticaparana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Módulo Sensor de Umidade e Temperatura DHT11" (https://sketchfab.com/3d-models/modulo-sensor-de-umidade-e-temperatura-dht11-4b7c7f7436ad46cc97a837b7503b5901) by Robótica Paraná (https://sketchfab.com/roboticaparana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
