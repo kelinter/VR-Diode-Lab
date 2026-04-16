@@ -625,6 +625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077642446bc924a46a146f58770480c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayAudioOnGrab
+  homePoint: {fileID: 953857832}
 --- !u!1001 &79892236
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2250,6 +2251,37 @@ Transform:
   - {fileID: 1060742721}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &790641064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 790641065}
+  m_Layer: 0
+  m_Name: Diode_Home
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &790641065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 790641064}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.27792, y: 1.296, z: -11.00728}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1943385287}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &822804236
 GameObject:
   m_ObjectHideFlags: 0
@@ -2458,6 +2490,37 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.016924433, y: 0.07612661, z: 0.024523735}
   m_Center: {x: -0.0011243708, y: -0.02030288, z: -0.00006252527}
+--- !u!1 &953857831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 953857832}
+  m_Layer: 0
+  m_Name: Capacitor_Home
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &953857832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953857831}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.27792, y: 1.296, z: -7.44928}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1943385287}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &961591382
 GameObject:
   m_ObjectHideFlags: 0
@@ -3357,6 +3420,37 @@ MonoBehaviour:
   floatHeight: 0.1
   floatSpeed: 1
   rotateSpeed: 30
+--- !u!1 &1190463589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1190463590}
+  m_Layer: 0
+  m_Name: Resistor_Home
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1190463590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190463589}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.27792, y: 1.296, z: -14.583281}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1943385287}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1200512299 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 657184242222895507, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
@@ -4565,6 +4659,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077642446bc924a46a146f58770480c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayAudioOnGrab
+  homePoint: {fileID: 1190463590}
 --- !u!4 &1658148683 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2656248927733148465, guid: f74d9a3d106b5432e86934f3c85777fb, type: 3}
@@ -5428,8 +5523,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1190463590}
   - {fileID: 1642715250}
+  - {fileID: 790641065}
   - {fileID: 1955233876}
+  - {fileID: 953857832}
   - {fileID: 44509795}
   - {fileID: 961591387}
   - {fileID: 1661678090}
@@ -5989,6 +6087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077642446bc924a46a146f58770480c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayAudioOnGrab
+  homePoint: {fileID: 790641065}
 --- !u!1001 &2117038314
 PrefabInstance:
   m_ObjectHideFlags: 0
