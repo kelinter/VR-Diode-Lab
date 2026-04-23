@@ -8,26 +8,49 @@ public class PlayAudioOnGrab : MonoBehaviour
     private XRGrabInteractable grabInteractable;
     private Rigidbody rb;
     private FloatRotate floatRotate;
+    private ComponentUIPanel uiPanel;
 
     [SerializeField] private Transform homePoint;
 
-    void Start()
+    private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
         grabInteractable = GetComponent<XRGrabInteractable>();
         rb = GetComponent<Rigidbody>();
         floatRotate = GetComponent<FloatRotate>();
-
-        grabInteractable.selectEntered.AddListener(OnGrab);
-        grabInteractable.selectExited.AddListener(OnRelease);
+        uiPanel = GetComponent<ComponentUIPanel>();
     }
 
-    void OnGrab(SelectEnterEventArgs args)
+    private void OnEnable()
+    {
+        if (grabInteractable != null)
+        {
+            grabInteractable.selectEntered.AddListener(OnGrab);
+            grabInteractable.selectExited.AddListener(OnRelease);
+        }
+    }
+
+    private void OnDisable()
+    {
+        if (grabInteractable != null)
+        {
+            grabInteractable.selectEntered.RemoveListener(OnGrab);
+            grabInteractable.selectExited.RemoveListener(OnRelease);
+        }
+    }
+
+    private void OnGrab(SelectEnterEventArgs args)
     {
         if (audioSource != null)
         {
             audioSource.Stop();
+            audioSource.time = 0f;
             audioSource.Play();
+        }
+
+        if (uiPanel != null)
+        {
+            uiPanel.ShowPanel();
         }
 
         if (floatRotate != null)
@@ -36,11 +59,17 @@ public class PlayAudioOnGrab : MonoBehaviour
         }
     }
 
-    void OnRelease(SelectExitEventArgs args)
+    private void OnRelease(SelectExitEventArgs args)
     {
         if (audioSource != null)
         {
             audioSource.Stop();
+            audioSource.time = 0f;
+        }
+
+        if (uiPanel != null)
+        {
+            uiPanel.HidePanel();
         }
 
         if (rb != null)
