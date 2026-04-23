@@ -311,6 +311,7 @@ GameObject:
   - component: {fileID: 44509791}
   - component: {fileID: 44509796}
   - component: {fileID: 44509797}
+  - component: {fileID: 44509798}
   m_Layer: 0
   m_Name: Hero_Capacitor
   m_TagString: Untagged
@@ -627,6 +628,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayAudioOnGrab
   homePoint: {fileID: 953857832}
+--- !u!114 &44509798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44509790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1428adbc66b47c28727dc8f607029c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentUIPanel
+  panelRoot: {fileID: 556664409}
+  targetCamera: {fileID: 0}
 --- !u!1 &72432782
 GameObject:
   m_ObjectHideFlags: 0
@@ -2404,6 +2419,7 @@ GameObject:
   - component: {fileID: 658724317}
   - component: {fileID: 658724323}
   - component: {fileID: 658724322}
+  - component: {fileID: 658724324}
   m_Layer: 0
   m_Name: Hero_Button
   m_TagString: Untagged
@@ -2720,6 +2736,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &658724324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658724316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1428adbc66b47c28727dc8f607029c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentUIPanel
+  panelRoot: {fileID: 1943915833}
+  targetCamera: {fileID: 0}
 --- !u!1 &668661424
 GameObject:
   m_ObjectHideFlags: 0
@@ -3252,6 +3282,7 @@ GameObject:
   - component: {fileID: 961591383}
   - component: {fileID: 961591389}
   - component: {fileID: 961591388}
+  - component: {fileID: 961591390}
   m_Layer: 0
   m_Name: Hero_Transistor
   m_TagString: Untagged
@@ -3568,6 +3599,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &961591390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 961591382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1428adbc66b47c28727dc8f607029c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentUIPanel
+  panelRoot: {fileID: 1562418322}
+  targetCamera: {fileID: 0}
 --- !u!1001 &1010746403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6408,6 +6453,7 @@ GameObject:
   - component: {fileID: 1661678086}
   - component: {fileID: 1661678092}
   - component: {fileID: 1661678091}
+  - component: {fileID: 1661678093}
   m_Layer: 0
   m_Name: Hero_Inductor
   m_TagString: Untagged
@@ -6724,6 +6770,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1661678093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661678085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1428adbc66b47c28727dc8f607029c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentUIPanel
+  panelRoot: {fileID: 422149257}
+  targetCamera: {fileID: 0}
 --- !u!1001 &1698089609
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8132,6 +8192,7 @@ GameObject:
   - component: {fileID: 1955233872}
   - component: {fileID: 1955233877}
   - component: {fileID: 1955233878}
+  - component: {fileID: 1955233879}
   m_Layer: 0
   m_Name: Hero_Diode
   m_TagString: Untagged
@@ -8448,6 +8509,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayAudioOnGrab
   homePoint: {fileID: 790641065}
+--- !u!114 &1955233879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1955233871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1428adbc66b47c28727dc8f607029c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentUIPanel
+  panelRoot: {fileID: 450199691}
+  targetCamera: {fileID: 0}
 --- !u!1 &1989275099
 GameObject:
   m_ObjectHideFlags: 0
@@ -9026,6 +9101,10 @@ PrefabInstance:
     - target: {fileID: 8223070993913142520, guid: 3f7b5ac0c38124047827484ab120b206, type: 3}
       propertyPath: m_Name
       value: ResistorInfoPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 8223070993913142520, guid: 3f7b5ac0c38124047827484ab120b206, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
