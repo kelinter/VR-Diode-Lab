@@ -19,7 +19,7 @@ The goal is to provide an intuitive introduction to circuits through interaction
 
 ## Demo
 
-*(Add videos here)*
+https://drive.google.com/file/d/10VuHN1OGi7ENqk8U8G8yyNYM5SYYe39i/view?usp=drive_link 
 
 ---
 
